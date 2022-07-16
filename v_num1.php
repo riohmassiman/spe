@@ -18,7 +18,7 @@ if (isset($_POST['submit'])){
 		echo "false";
 	}
 } else {
-	echo "sadasd";
+	echo "";
 }
 ?>
 
