@@ -1,7 +1,7 @@
 <?php
 
 $array=["red", "blue", "yellow", "black", "grey"];
-$needles = "yellow";
+$needles = "black";
 $cek =  find_needles($array,$needles);
 echo ($cek);
 
